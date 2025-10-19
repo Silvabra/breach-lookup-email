@@ -5,7 +5,7 @@ import sys
 import time
 import json
 
-API_KEY = "bc8c4467b1ae6ee6b8db909d4806b18a1f1c2073c96b1749fc1ad870c90956fe"
+API_KEY = "" # add api key here
 BASE_URL = "https://api.databreach.zip"
 
 def create_job(email):
